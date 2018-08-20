@@ -1,0 +1,20 @@
+{
+  "name": "UR-Materias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Pablo Dorado <hola@pablodorado.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "es-promisify": "^1.1.2",
+    "jsonfile": "^4.0.0",
+    "lodash.difference": "^4.5.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
